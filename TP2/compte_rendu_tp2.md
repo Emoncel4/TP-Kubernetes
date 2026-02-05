@@ -20,10 +20,10 @@ Ensuite j'ai effectué les différentes commandes demandées pour avoir les info
 
 ![](screenshot/liste_dependances.png)
 
-## Récupérer une description complète de votre application
+## Récupérer une description complète de l'application
 
 ![](screenshot/description.png)
 
-## Execution de l'API en passant par curl (puisque j'ai pris la version complete de python 1.13 dans mon image docker)
+## Execution du get de l'API en passant par curl (puisque j'ai pris la version complete de python 1.13 dans mon image docker)
 
 ![](screenshot/execution.png)
