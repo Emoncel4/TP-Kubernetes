@@ -6,11 +6,24 @@ Ensuite j'ai effectué les différentes commandes demandées pour avoir les info
 
 ## Afficher la liste des pods
 
-![](screenshot.)
+![](screenshot/getpods.png)
 
 ## Afficher la liste des deployments
 
+![](screenshot/getdeployment.png)
 
 ## Regarder les logs de l'application avant et après test
-## Lister les dépendances de l'application 
+
+![](screenshot/logs.png)
+
+## Lister les dépendances de l'application
+
+![](screenshot/liste_dependances.png)
+
 ## Récupérer une description complète de votre application
+
+![](screenshot/description.png)
+
+## Execution de l'API en passant par curl (puisque j'ai pris la version complete de python 1.13 dans mon image docker)
+
+![](screenshot/execution.png)
